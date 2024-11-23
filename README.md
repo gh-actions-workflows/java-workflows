@@ -2,7 +2,7 @@
 
 Workflows for your Java code.
 
-## Como utilizar?
+## How to use?
 
 ```yaml
 name: Java Workflow
