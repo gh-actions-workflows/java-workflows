@@ -1,6 +1,6 @@
 # Java Workflows
 
-Workflows para o seu código Java.
+Workflows for your Java code.
 
 ## Como utilizar?
 
@@ -16,4 +16,4 @@ jobs:
 
 ```
 
-Para mais detalhes sobre o funcionamento consulte o arquivo: [maven.yaml](https://github.com/gh-actions-workflows/java-workflows/blob/master/.github/workflows/maven.yaml).
+For more details on how it works, see the file: [maven.yaml](https://github.com/gh-actions-workflows/java-workflows/blob/master/.github/workflows/maven.yaml).
